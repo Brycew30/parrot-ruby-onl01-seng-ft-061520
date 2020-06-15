@@ -1,2 +1,4 @@
-def parrot(sound=Squawk!)
+def parrot
+  puts "Squawk!"
+  "Squawk!"
 end
